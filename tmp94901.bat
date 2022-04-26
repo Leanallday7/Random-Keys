@@ -1,9 +1,3 @@
-@ECHO OFF
-@echo off
-SHIFT /0
-@echo off
-set cmdline=
-SHIFT /0
 @echo off
 
 :Loading
